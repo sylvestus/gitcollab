@@ -1,0 +1,36 @@
+/* * {
+    margin: 20px;
+} */
+body{
+    /* background-color: aliceblue; */
+    margin-left: 40px;
+    background-image: url("image/banana.jpeg");
+    background-repeat: repeat;
+    
+}
+
+p.instruction{
+    color: blue;
+}
+img{
+    float: right;
+}
+.whatever{
+    border: 2px solid blue;
+    padding: 5px;
+    
+}
+.container{
+    background-color: greenyellow;
+}
+.green-background {
+    background-color: green;
+  }
+
+  .yellow-background {
+    background-color: yellow;
+  }
+
+  .red-background {
+    background-color: red;
+  }
